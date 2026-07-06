@@ -29,19 +29,14 @@ If you have Python installed locally, run the script directly:
   python main.py
 
 ## Project Structure
-
+```bash
 ├── .github/
-
 │      └── workflows/
-
 │             └── ci.yml      # Continuous integration setup
-
 ├── .gitignore                # Environment filter files
-
 ├── main.py                   # Main game executable and logic
-
 └── README.md                 # Documentation
-
+```
 ## Roadmap
 
 [ ] Add difficulty scaling (toggling target numbers up to 500 or lowering total attempts).
