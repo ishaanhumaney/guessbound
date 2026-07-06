@@ -33,8 +33,11 @@ If you have Python installed locally, run the script directly:
 ├── .github/
 │   └── workflows/
 │       └── ci.yml      # Continuous integration setup
+
 ├── .gitignore          # Environment filter files
+
 ├── main.py             # Main game executable and logic
+
 └── README.md           # Documentation
 
 ## Roadmap
