@@ -31,7 +31,9 @@ If you have Python installed locally, run the script directly:
 ## Project Structure
 
 ├── .github/
+
 │   └── workflows/
+
 │       └── ci.yml      # Continuous integration setup
 
 ├── .gitignore          # Environment filter files
