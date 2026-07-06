@@ -32,15 +32,15 @@ If you have Python installed locally, run the script directly:
 
 ├── .github/
 
-│   └── workflows/
+│      └── workflows/
 
-│       └── ci.yml      # Continuous integration setup
+│             └── ci.yml      # Continuous integration setup
 
-├── .gitignore          # Environment filter files
+├── .gitignore                # Environment filter files
 
-├── main.py             # Main game executable and logic
+├── main.py                   # Main game executable and logic
 
-└── README.md           # Documentation
+└── README.md                 # Documentation
 
 ## Roadmap
 
